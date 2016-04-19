@@ -1,0 +1,28 @@
+name: Union206
+favicon: null
+layout_spectrum: 0.4042332915123552
+typography_spectrum: 0.19664693414233625
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5306705073453486
+  lightness: 0.03718917234800756
+  saturation: 0.6036080629564822
+  rhythmicContrast: 0.04765084804967046
+purpose: []
