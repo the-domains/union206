@@ -1,4 +1,4 @@
-name: Union206
+name: Butler Imagery
 favicon: null
 layout_spectrum: 0.4042332915123552
 typography_spectrum: 0.19664693414233625
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#ffffff'
+    - '#000000'
+    - '#919191'
+    - '#2f2f2f'
+    - '#d6d6d6'
   brandStrength: 0.5306705073453486
-  lightness: 0.03718917234800756
-  saturation: 0.6036080629564822
-  rhythmicContrast: 0.04765084804967046
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
